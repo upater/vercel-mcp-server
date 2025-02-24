@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vercel-mcp-server.git
+git clone https://github.com/Quegenx/vercel-mcp-server.git
 cd vercel-mcp-server
 
 # Install dependencies
@@ -246,6 +246,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
   <p>
     <a href="https://cursor.sh">Cursor</a> •
     <a href="https://vercel.com">Vercel</a> •
-    <a href="https://github.com/yourusername">GitHub</a>
+    <a href="https://github.com/Quegenx">GitHub</a>
   </p>
 </div>
